@@ -1,1 +1,1 @@
-# Basic-Sudoko-Solver
+# Basic-Sudoku-Solver
